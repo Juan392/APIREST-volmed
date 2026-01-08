@@ -1,0 +1,1 @@
+ALTER TABLE medicos MODIFY estado VARCHAR(100)
